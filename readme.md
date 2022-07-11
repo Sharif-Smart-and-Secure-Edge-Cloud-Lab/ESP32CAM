@@ -47,9 +47,9 @@ https://github.com/espressif/esp-dl
 	* You need to install C/C++ extension, thus download it from the extansions menu on the sied bar.
 	* You need a C++ compiler on Windows, so follow the link https://code.visualstudio.com/docs/languages/cpp
 	
-	* Main command to install C++ compiler (interpreter) is '(pip install opencv-python)'
-	choose the `blink_example`
-	Image size!!!
+	* Main command to install C++ compiler (interpreter) is `(pip install opencv-python)`. This command should be run in cmd terminal.
+	
+	* Image size is very important. It must be less than 2 MB to be processed in ESP32.
 --------------------------------------------------------------------------------------------------------------
 5. Send detected face and identity vector to the server via rest API.
 --------------------------------------------------------------------------------------------------------------
