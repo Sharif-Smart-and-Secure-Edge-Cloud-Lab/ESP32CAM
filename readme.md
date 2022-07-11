@@ -35,7 +35,7 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
 https://github.com/espressif/vscode-esp-idf extension/blob/master/docs/tutorial/basic_use.md
 --------------------------------------------------------------------------------------------------------------
 3. Set up the WiFi Station interface and HTTP client.
-https://github.com/espressif/esp-idf/tree/master/examples/wifi/getting_started
+	* follow this link: https://github.com/espressif/esp-idf/tree/master/examples/wifi/getting_started
 
 	* Some times before flashing the module you need to reset the device by pressing the button on it.
 	* After flashing, disconnect the jumper, click on the monitor icon (below the VScode window), reset the module again.
