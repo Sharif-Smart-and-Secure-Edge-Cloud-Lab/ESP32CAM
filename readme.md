@@ -50,6 +50,7 @@ https://github.com/espressif/esp-dl
 	* Main command to install C++ compiler (interpreter) is `(pip install opencv-python)`. This command should be run in cmd terminal.
 	
 	* Image size is very important. It must be less than 2 MB to be processed in ESP32.
+	* Sometimes you get "build error", in this situation delete build folder, check that the name of folders be in english, build the project again.
 --------------------------------------------------------------------------------------------------------------
 5. Send detected face and identity vector to the server via rest API.
 --------------------------------------------------------------------------------------------------------------
