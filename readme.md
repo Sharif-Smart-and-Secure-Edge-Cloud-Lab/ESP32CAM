@@ -48,6 +48,7 @@ https://github.com/espressif/esp-dl
 	* You need a C++ compiler on Windows, so follow the link https://code.visualstudio.com/docs/languages/cpp
 	
 	* Main command to install C++ compiler (interpreter) is '(pip install opencv-python)'
+	choose the `blink_example`
 	Image size!!!
 --------------------------------------------------------------------------------------------------------------
 5. Send detected face and identity vector to the server via rest API.
