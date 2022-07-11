@@ -28,16 +28,27 @@ https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
 		* If in the Get Started page, click on <Start a Project on Windows>, in the appearing page you see the topic "Connect Your Device", in this topic click on <Establish Serial Connection with ESP32>, then you will see a page that says you need either CP210x of FTDI. We bought CP2102. In order for the laptop to recognize CP2102 board, we need to download and install a proper driver. In this page, there is a link <CP210x USB to UART Bridge VCP Drivers> to download the driver but in Windows 7 it doesn't work. So I downloaded the proper driver from https://www.pololu.com/docs/0J7/all by following its instructions.
 		
 		* Note: after installing the driver, when you enter <ESP-IDF: Select port to use> command in Command Palette in Visual studio, the connected com-port automatically appears in the textbox above, just must click on it do.
-		
+
+		* In Step 9, select UART.
 
 2. Example:
-https://github.com/espressif/vscode-esp-idf-extension/blob/master/docs/tutorial/basic_use.md
+https://github.com/espressif/vscode-esp-idf extension/blob/master/docs/tutorial/basic_use.md
 --------------------------------------------------------------------------------------------------------------
 3. Set up the WiFi Station interface and HTTP client.
 https://github.com/espressif/esp-idf/tree/master/examples/wifi/getting_started
+
+	* Some times before flashing the module you need to reset the device by pressing the button on it.
+	* After flashing, disconnect the jumper, click on the monitor icon (below the VScode window), reset the module again.
+	* To access the menuconfig, just search this work in the command palatte in the view menu.
 --------------------------------------------------------------------------------------------------------------
 4. Run esp-dl with face detection and face recognition model.
 https://github.com/espressif/esp-dl
+
+	* You need to install C/C++ extension, thus download it from the extansions menu on the sied bar.
+	* You need a C++ compiler on Windows, so follow the link https://code.visualstudio.com/docs/languages/cpp
+	
+	* Main command to install C++ compiler (interpreter) is (pip install opencv-python)
+	Image size!!!
 --------------------------------------------------------------------------------------------------------------
 5. Send detected face and identity vector to the server via rest API.
 --------------------------------------------------------------------------------------------------------------
