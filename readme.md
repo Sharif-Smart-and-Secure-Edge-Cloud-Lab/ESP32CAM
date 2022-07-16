@@ -53,11 +53,11 @@ https://github.com/espressif/esp-dl
 	* Sometimes you get "build error", in this situation delete build folder, check that the name of folders be in english, build the project again.
 --------------------------------------------------------------------------------------------------------------
 5. Send detected face and identity vector to the server via rest API.
-To setup ESP32 webserver follow this link:
-https://www.hackster.io/Arnov_Sharma_makes/esp32-cam-web-server-and-getting-started-guide-f1a04a
+	To setup ESP32 webserver follow this link:
+	https://www.hackster.io/Arnov_Sharma_makes/esp32-cam-web-server-and-getting-started-guide-f1a04a
 
-There is a simple but amazing project with this module (turning an LED on and off remotely):
-https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
+	There is a simple but amazing project with this module (turning an LED on and off remotely):
+	https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
 --------------------------------------------------------------------------------------------------------------
 6. Set up the Edge Impulse framework 
 https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/espressif-esp32
