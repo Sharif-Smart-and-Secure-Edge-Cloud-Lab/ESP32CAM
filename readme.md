@@ -56,7 +56,8 @@ https://github.com/espressif/esp-dl
 	To setup ESP32 webserver follow this link:
 	https://www.hackster.io/Arnov_Sharma_makes/esp32-cam-web-server-and-getting-started-guide-f1a04a
 
-	There is a simple but amazing project with this module (turning an LED on and off remotely):
+	Here is a simple but amazing project with this module (turning an LED on and off remotely):
+	
 	https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
 --------------------------------------------------------------------------------------------------------------
 6. Set up the Edge Impulse framework 
