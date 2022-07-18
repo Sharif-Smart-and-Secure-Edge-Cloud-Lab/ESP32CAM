@@ -75,5 +75,5 @@ https://github.com/espressif/esp-dl
 	* when the computer tries to connect to ESP32, disconnect GPIO0-GND jumper.
 	* In yuour Edge Impulse account, the device is added. 
 <p>
-<img src="./images/Module 2.png" alt="Select extension mode" width="950">
+<img src="./images/2.png" alt="Select extension mode" width="950">
 </p>
