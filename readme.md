@@ -61,9 +61,9 @@ https://github.com/espressif/esp-dl
 --------------------------------------------------------------------------------------------------------------
 6. Set up the Edge Impulse framework 
 	**Note:** I've done this task in Ubuntu 20 because Nodejs v14 which is the least required version of Nodejs for Edge Impulse Cli is not supported in Winsows 7.
-	Follow this link:
-	https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/espressif-esp32
-	In Step 3, from the address https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation
-	Instead of 'npm install -g edge-impulse-cli' run the command below:
-	'sudo npm install -g edge-impulse-cli --unsafe-perm=true –allow-root'
+	* Follow this link:
+	* https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/espressif-esp32
+	* In Step 3, from the address https://docs.edgeimpulse.com/docs/edge-impulse-cli/cli-installation
+	* Instead of `npm install -g edge-impulse-cli` run the command below:
+	* `sudo npm install -g edge-impulse-cli --unsafe-perm=true –allow-root`
 	
