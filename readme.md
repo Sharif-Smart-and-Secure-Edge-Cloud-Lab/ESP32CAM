@@ -59,7 +59,7 @@ https://github.com/espressif/esp-dl
 	<img src="./images/fig3.jpeg" alt="Select extension mode" width="250">
 	</p>
 	
-	* I have run http client example. Here is the result (the figure above is what we see in serial monitor of ESp 32, the figure below is what we see in Chrome browser of http://example.com/index.html):
+	* I have run http client example. Here is the result (the figure above is what we see in serial monitor of ESp 32, the figure below is what we see in Chrome browser:
 	<p>
 	<img src="./images/fig4.JPG" alt="Select extension mode" width="500">
 	</p>
