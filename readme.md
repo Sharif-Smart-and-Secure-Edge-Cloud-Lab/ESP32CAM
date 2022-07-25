@@ -61,7 +61,7 @@ https://github.com/espressif/esp-dl
 	
 	* I have run http client example. Here is the result (the figure above is what we see in serial monitor of ESp 32, the figure below is what we see in Chrome browser of http://example.com/index.html):
 	<p>
-	<img src="./images/fig4.jpeg" alt="Select extension mode" width="250">
+	<img src="./images/fig4.JPG" alt="Select extension mode" width="350">
 	</p>
 
 	* Here is a simple but amazing project with this module (turning an LED on and off remotely): 	
