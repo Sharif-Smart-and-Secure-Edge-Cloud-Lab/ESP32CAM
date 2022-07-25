@@ -58,6 +58,11 @@ https://github.com/espressif/esp-dl
 	<p>
 	<img src="./images/fig3.jpeg" alt="Select extension mode" width="250">
 	</p>
+	
+	* I have run http client example. Here is the result (the above figure is what we see in serial monitor of ESp 32, the below figure is what we see in Chrome browser):
+	<p>
+	<img src="./images/fig4.jpeg" alt="Select extension mode" width="250">
+	</p>
 
 	* Here is a simple but amazing project with this module (turning an LED on and off remotely): 	
 	https://randomnerdtutorials.com/esp32-web-server-arduino-ide/
