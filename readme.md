@@ -56,7 +56,7 @@ https://github.com/espressif/esp-dl
 	* To setup ESP32 webserver follow this link:
 	https://www.hackster.io/Arnov_Sharma_makes/esp32-cam-web-server-and-getting-started-guide-f1a04a
 	<p>
-	<img src="./images/Module fig3.jpeg" alt="Select extension mode" width="950">
+	<img src="./images/fig3.jpeg" alt="Select extension mode" width="950">
 	</p>
 
 	* Here is a simple but amazing project with this module (turning an LED on and off remotely): 	
